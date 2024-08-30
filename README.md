@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sanjeev - Portfolio</title>
+    <title>Priyanshu - Portfolio</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
@@ -147,7 +147,7 @@ main hr{
  <main> 
     <section class="firstSection">
         <div class="leftSection"> 
-            Hi, My Name is <span class="purple"> sanjeev</span>
+            Hi, My Name is <span class="purple"> Priyanshu</span>
             <div>and I am a Passionate </div>
         <!-- <div>  Web Developer </div>-->
             <span id="element"></span>
