@@ -132,7 +132,7 @@ main hr{
 <body>
     <header>
         <nav>
-            <div class="left">Sanjeev's Portfolio</div>
+            <div class="left">Priyanshu's Portfolio</div>
             <div class="right">
                 <ul>
                     <li><a href="/">Home</a></li>
